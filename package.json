@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "jest": "^28.1.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "chromedriver": "^102.0.0",
+    "selenium-webdriver": "^4.2.0"
+  }
+}
